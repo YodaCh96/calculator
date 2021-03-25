@@ -1,6 +1,6 @@
 # Implementation of a calculator with C#
 
-Im Kontext dieser Aufgabe werden Sie einen einfachen Taschenrechner in C# implementieren.Der Fokus dieser Programmieraufgabe liegt dabei weniger auf mathematischer Raffinesse als auf der Kenntnisund korrekten Anwendung objektorientierterKonzepte.Sie sollen einen einfachen Ganzzahl-Taschenrechner implementieren, welcher die vier Grund-rechenoperationen mit Ganzzahlen adäquat ausführen kann. Dabei werden Sie die initiale Version des Taschenrechners schrittweise ausbauen und erweitern.
+In the context of this task, I will implement a simple calculator in C#.The focus of this programming task is less on mathematical sophistication than on the knowledge and correct application of object-oriented concepts.You are to implement a simple integer calculator that can adequately perform the four basic arithmetic operations with integers. You will extend and expand the initial version of the calculator step by step.
 
 Create a Calculator programme that can perform the four basic arithmetic operations: addition, subtraction, multiplication and (integer) division. Proceed step by step:
 
