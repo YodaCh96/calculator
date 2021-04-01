@@ -6,8 +6,12 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            
+            Calculator calc = new Calculator();
 
-            while (true)
+            calc.Add
+
+            do
             {
                 Console.Write("operation: ");
                 char operation = Console.ReadLine()[0];
@@ -20,9 +24,10 @@ namespace ConsoleApp1
                 String operandString2 = Console.ReadLine();
                 int b = Convert.ToInt32(operandString2);
 
-                Calculator calc = new Calculator();
+                
 
-                int result = 0;
+                int result;
+                char operation;
 
                 switch (operation)
                 {
@@ -41,7 +46,7 @@ namespace ConsoleApp1
                 }
 
                 Console.WriteLine($"{a} {operation} {b} = {result}");
-            }
+            } while ();
         }
     }
 }
